@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @lukaakhalbedashvili
 - 👀 I’m interested in web technologies
-- 🌱 I’m currently learning Nest.js
 - 📫 How to reach me => lukaakhalbedashvili@gmail.com
 
 <!---
