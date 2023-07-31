@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @lukaakhalbedashvili
-- 👀 I’m interested in web technologies
 - 📫 How to reach me => lukaakhalbedashvili@gmail.com
 
 <!---
